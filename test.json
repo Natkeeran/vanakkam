@@ -2,30 +2,27 @@
     "@context": [
         "http://www.w3.org/ns/anno.jsonld"
     ],
-    "@id": "350603BA-0FDC-4D47-9047-E9374ABE04E4",
+    "@id": "75655DE5-CE17-4EE8-AB3E-45D4030654C1",
     "@type": "Annotation",
     "body": {
         "src": "dzi://openseadragon/something",
-        "text": "oooooooooooooooooooooo",
-        "pid": "islandora:299",
+        "text": "0000",
         "shapes": [
             {
                 "type": "rect",
                 "geometry": {
-                    "x": "0.33738601823708236",
-                    "y": "0.13971391014219334",
-                    "width": "0.1306990881458966",
-                    "height": "0.10942249240121579"
+                    "x": "0.29635258358662614",
+                    "y": "0.493817253607239",
+                    "width": "0.2203647416413374",
+                    "height": "0.08662613981762907"
                 }
             }
         ],
-        "editable": "true",
-        "context": "http://localhost:8000/islandora/object/islandora%3A295"
+        "context": "http://localhost:8000/islandora/object/islandora%3A303",
+        "pid": "New"
     },
-    "target": "http://localhost:8000/islandora/object/islandora%3A295",
+    "target": "http://localhost:8000/islandora/object/islandora%3A303",
     "pid": "New",
-    "creator": null,
-    "created": null,
-    "modifiedBy": "admin",
-    "modified": "2016-12-13 17:10:43"
+    "creator": "admin",
+    "created": "2016-12-13 19:16:41"
 }
